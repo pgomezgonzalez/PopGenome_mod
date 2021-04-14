@@ -1,3 +1,2 @@
-# PopGenome_mod
-
-Modification of the package PopGenome in R to adapt it to be used including indels for the nucleotide diversity.
+# PopGenome
+https://cran.r-project.org/web/packages/PopGenome/index.html
