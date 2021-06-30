@@ -132,7 +132,7 @@ if(outgroup[1]){
    ###### GET DATA #############################
 
 
-   obj <- get_data(Code_matrix,include.unknown,gff=gff,FAST,SNP.DATA)
+   obj <- get_data_new(Code_matrix,include.unknown,gff=gff,FAST,SNP.DATA)
    
 
    ## Exception
